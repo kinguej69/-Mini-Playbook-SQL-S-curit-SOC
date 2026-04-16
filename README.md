@@ -1,4 +1,4 @@
-# -Mini-Playbook-SQL-S-curit-SOC
+# -Mini-Playbook-SQL-Securite-SOC
 Playbook SQL pour SOC
 
 Ce document présente un ensemble de requêtes SQL types utilisées par les analystes de sécurité dans un Security Operations Center (SOC). Elles permettent d’investiguer des scénarios courants tels que les tentatives de brute force, les comptes dormants, les escalades de privilèges et les connexions suspectes.
